@@ -1,0 +1,2 @@
+# Detection-of-elongated-styloid-process-in-the-panoramic-radiographs-using-deep-learning-models
+A collaborative study with University of Sharjah UAE and University of Bolton UK on A total of 400 panoramic radiographs which included both the panoramic radiographs with normal styloid process (N) and panoramic radiographs with elongated styloid process (ESP), collected from the oral radiology archives of university dental hospital. 
